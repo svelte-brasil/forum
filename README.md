@@ -27,6 +27,6 @@ Para ser notificado a cada atualização no fórum, basta clicar em **watch** e 
 - **Facebook group:** https://www.facebook.com/groups/sveltebrasil/
 - **Facebook Page:** https://www.facebook.com/sveltebrasil/
 - **Twitter:** https://twitter.com/sveltebrasil
-- **Telegram:** https://t.me/joinchat/HJvqnhPEcF6sukT0JDSTYg
+- **Telegram:** https://t.me/sveltebrasil
 
 ## Vamo que vamo
